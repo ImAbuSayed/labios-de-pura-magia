@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Labios de pura magia, me tienen hipnotizado
+> Tu piel tiene el ritmo que busco a cada lado
+> Esa sonrisa me llama, no puedo estar callado
+> Contigo esta noche, todo está permitido, baby
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -108,7 +111,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
 | **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
