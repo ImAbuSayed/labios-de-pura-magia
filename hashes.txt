@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios de pura magia
+
+This log tracks the cryptographic history and versioning for the song **Labios de pura magia** (labios-de-pura-magia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T03:16:22.993893 | `v1` | `3db3c5a03bb5cae4739f24b8b90d948a0b6ea5ed5f6d9a3c3d1b5dd97b36eb7c` | `852c61e4514aa61815394a8232ae3c07c1807134f5c306e2ddc649dde589f4ec` | `2026-06-21_labios-de-pura-magia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
